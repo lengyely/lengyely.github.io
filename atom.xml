@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lengyely.github.io</id>
+    <title>冷夜的个人博客</title>
+    <updated>2022-12-11T07:20:16.869Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lengyely.github.io"/>
+    <link rel="self" href="https://lengyely.github.io/atom.xml"/>
+    <subtitle>这里是我的个人博客，我会在这里记录自己想说的话，也会用文章写一些关于我的故事或者分享我身边所发生的事</subtitle>
+    <logo>https://lengyely.github.io/images/avatar.png</logo>
+    <icon>https://lengyely.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 冷夜的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[我开发的新软件--Android分享]]></title>
+        <id>https://lengyely.github.io/post/wo-kai-fa-de-xin-ruan-jian-android-fen-xiang/</id>
+        <link href="https://lengyely.github.io/post/wo-kai-fa-de-xin-ruan-jian-android-fen-xiang/">
+        </link>
+        <updated>2022-11-05T02:45:31.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>前言：<br>
+这个软件用来分享你见到的所有安卓实用软件或模块，你也可以分享你自己开发的软件，软件正在完善...</p>
+</blockquote>
+<p>软件初衷就是互相分享好用的东西而开发的。。。<br>
+软件官网下载地址：<a href="https://lengye29.github.io">点此进入</a></p>
+<p>最后附张官网图片：<br>
+<img src="https://lengyely.github.io/post-images/1667617115923.png" alt="" loading="lazy"><br>
+<img src="https://lengyely.github.io/post-images/1667617126922.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的编程开发之路]]></title>
+        <id>https://lengyely.github.io/post/wo-de-bian-cheng-kai-fa-zhi-lu/</id>
+        <link href="https://lengyely.github.io/post/wo-de-bian-cheng-kai-fa-zhi-lu/">
+        </link>
+        <updated>2022-10-14T12:55:47.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>至于我学编程嘛，详细的时间我也忘了，只能说下大概的时间点<br>
+事情可以一直回到五年级，五年级那年，通过抖音的推荐我下载了一个数码平台--酷安(毕竟我本来就一直比较喜欢数码) 通过酷安这个平台，偶然一次我碰到了一个叫webcat的软件，软件当时的介绍是可以帮你开发app的，然后我就下载了，于是我的编程之路也从那开始了<br>
+后来通过了解知道它是通过webview去将你的HTML页面(网页)放进webview里，再套个Java的壳就完事了，后来我就开始自学HTML，JS，css，慢慢的我也学会了这些，后来也知道这些是属于前端web网页开发<br>
+后来，我也接触到其他的编程语言，最后我本来就对那些很好奇很感兴趣，于是又一口气学了他们，是通过https://www.runoob.com 这个网站自学的，慢慢的，我就学会了Python，Java，kotlin(Android开发)，c++等等编程语言<br>
+最后我通过Android官方的工具Android Studio(官网:https://developer.android.google.cn/studio)用Java套壳webview借助hx工具开发了我自己的一个文案app，名字是盛夏文案，是一款为00后开发的文案收集软件，收集的文案各种各样基本来自网络，因为我个人也喜欢收集文案那些，当然我也知道肯定也有很多人喜欢文案所以索性就开发了，我也想慢慢给它推广出去，让更多人下载<br>
+好了就写到这吧基本都说完了，关于细节以后想起来再慢慢完善吧</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任何人的青春都会有遗憾，我们都不是什么例外]]></title>
+        <id>https://lengyely.github.io/post/ren-he-ren-de-qing-chun-du-hui-you-yi-han-wo-men-du-bu-shi-shi-me-li-wai/</id>
+        <link href="https://lengyely.github.io/post/ren-he-ren-de-qing-chun-du-hui-you-yi-han-wo-men-du-bu-shi-shi-me-li-wai/">
+        </link>
+        <updated>2022-10-08T13:12:13.000Z</updated>
+        <content type="html"><![CDATA[<p>释怀吧...</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于我]]></title>
+        <id>https://lengyely.github.io/post/about/</id>
+        <link href="https://lengyely.github.io/post/about/">
+        </link>
+        <updated>2022-10-08T12:46:44.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝<br>
+网名:冷夜<br>
+age:14<br>
+联系方式:邮箱Email:lengye29@163.com或者lengye29@gmail.com<br>
+喜欢的东西:编程，文案<br>
+会的编程语言:c++(只会一点点)，py，c，JavaScript，HTML，css，kt...其他的想起来再写吧<br>
+擅长:web开发，webapp开发</p>
+</blockquote>
+]]></content>
+    </entry>
+</feed>
